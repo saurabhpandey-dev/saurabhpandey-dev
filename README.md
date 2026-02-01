@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Saurabh Pandey 👋
 
-<!--
-**saurabhpandey-backend/saurabhpandey-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Java Backend Developer  
+🎓 MCA Student  
+💻 Focused on building scalable backend applications using Java & Spring Boot
 
-Here are some ideas to get you started:
+---
+## 🚀 Tech Stack
+- Java (Core, OOP, Collections)
+- Data Structures & Algorithms
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📂 Projects
+- Core Java & DSA implementations
+- Spring Boot REST APIs
+- Backend mini-projects with database integration
+
+---
+## 📈 Current Focus
+- Advanced Spring Boot
+- Backend system design basics
+- Job-ready backend projects
+
+---
+Aspiring Java Backend Developer skilled in Core Java, DSA, and Spring Boot.
+Building production-ready REST APIs and backend projects with database integration.
+Actively preparing for backend developer opportunities.
+
+---
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/saurabh-g-pandey
