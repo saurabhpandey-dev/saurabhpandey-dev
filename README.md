@@ -1,4 +1,4 @@
-## Hi, I'm Saurabh Pandey 👋
+## Hi, I'm Saurabh Pandey!
 
 !! error !!
 
