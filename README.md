@@ -27,7 +27,6 @@ MCA student @ Kashi Institute of Technology, Varanasi (AKTU) &nbsp;|&nbsp; Build
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhpandey-dev&show_icons=true&theme=default&hide_border=true" alt="Saurabh's GitHub stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=saurabhpandey-dev&hide_border=true" alt="Saurabh's GitHub streak" height="165"/>
 </p>
 
